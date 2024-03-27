@@ -1,0 +1,33 @@
+{
+  "name": "authoritycontrols",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "authoritycontrols.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nookboss/authoritycontrols"
+  },
+  "website": "https://github.com/nookboss/authoritycontrols.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nookboss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nookboss/authoritycontrols/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nookboss/authoritycontrols#readme",
+  "dependencies": {
+    "simplewpasswordgenerator": "1.0.2"
+  }
+}
